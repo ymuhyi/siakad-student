@@ -6,7 +6,7 @@ error_reporting(0);
 <head>
 
 	<!-- General meta information -->
-	<title>Universitas ASFA Solution</title>
+	<title>POLAGRO</title>
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 	<meta name="robots" content="index, follow" />
@@ -18,6 +18,8 @@ error_reporting(0);
 	<script type="text/javascript" src="js/jquery.query-2.1.7.js"></script>
 	<script type="text/javascript" src="js/rainbows.js"></script>
 	<!-- // Load Javascipt -->
+
+    <link rel="icon" type="image/x-icon" href="logo.ico">	
 
 	<!-- Load stylesheets -->
 	<link type="text/css" rel="stylesheet" href="css/style.css" media="screen" />
@@ -155,7 +157,7 @@ error_reporting(0);
 		<div id="wrapperbottom"></div>
 		
 		<div id="powered">
-		<p>Copyright &copy; 2014 Universitas ASFA Solution</p>
+		<p>Copyright &copy; 2014 POLAGRO</p>
 		</div>
 	</div>
 

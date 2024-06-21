@@ -5,12 +5,13 @@ session_start();
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Universitas ASFA Solution</title>
+    <title>POLAGRO</title>
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="CV ASFA SOLUTION">
 	
+    <link rel="icon" type="image/x-icon" href="../logo.ico">
 	<link rel="stylesheet" type="text/css" href="../css/reset.css">
 	<link rel="stylesheet" type="text/css" href="../css/text.css">
 	<link rel="stylesheet" type="text/css" href="../css/grid.css">
@@ -158,7 +159,7 @@ session_start();
 	<div class="clear"></div>
 
 	<div id="site_info">
-		<p>Copyright &copy; 2013 Universitas ASFA Solution. All Rights Reserved.</p>
+		<p>Copyright &copy; 2013 POLAGRO. All Rights Reserved.</p>
 	</div>
 </body>
 </html>
